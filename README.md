@@ -4,6 +4,7 @@
 - 🌱 Estudando Python e REACT.js ...
 - 😄 Pronouns: Ele/Dele ...
  
+##
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=LuizHenriqueBraga&show_icons=true&theme=dracula#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
